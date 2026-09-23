@@ -17,4 +17,3 @@ El código fuente es el conjunto de instrucciones escritas por un programador us
 
 [Enlace a mi repositorio](https://github.com/ikerferrin/1DAMP_FerrinMenendez_Iker)
 [Foto](https://informatecdigital.com/wp-content/uploads/2025/04/que-es-el-software-de-desarrollo-3.jpg)
-
